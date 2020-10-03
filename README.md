@@ -6,10 +6,10 @@ This project uses inpainting functionalities in OpenCV to remove small noises, s
 The polygonal region of interest (ROIpoly) module is added to draw the mask more accessible in an image.  
 
 ## Original
-![Screenshot](my_result.png)
+![Screenshot](img/bird.jpg)
 
 ## Inpaint
-![Screenshot](my_result.png)
+![Screenshot](result/inpaint_bird_dstNS.jpg)
 
 
 # Prerequisites
