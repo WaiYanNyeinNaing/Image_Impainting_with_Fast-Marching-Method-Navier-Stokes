@@ -9,7 +9,7 @@ The polygonal region of interest (ROIpoly) module is added to draw the mask more
 ![Screenshot](img/original_bird.jpg)
 
 ## Inpaint
-![Screenshot](result/inpaint_bird_dstNS.jpg)
+![Screenshot](result/inpaint_dstNS.jpg)
 
 
 # Prerequisites
