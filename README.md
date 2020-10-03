@@ -18,10 +18,11 @@ The polygonal region of interest (ROIpoly) module is added to draw the mask more
 - OpenCV = pip install opencv-python
 
 # Test image impainting
-## Draw Mask ROI
+
+## Draw Mask ROI (Select the regions to remove) 
   - python draw_mask.py
   
-## Run Impainting
+## Run Inpainting
   - python inpaint.py 
 
 ## Reference and Acknowledgments
