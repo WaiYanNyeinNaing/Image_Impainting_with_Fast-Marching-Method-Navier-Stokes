@@ -4,6 +4,11 @@ Image_Inpainting_in_Photographs_Python
 # Introduction
 This project uses inpainting functionalities in OpenCV to remove small noises, strokes, and watermarks.
 The polygonal region of interest (ROIpoly) module is added to draw the mask more accessible in an image.  
+
+## Original
+![Screenshot](my_result.png)
+
+## Inpaint
 ![Screenshot](my_result.png)
 
 
